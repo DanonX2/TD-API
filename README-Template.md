@@ -1,6 +1,6 @@
 # Cash-Printer
 
-An algo trading system that hopefully can make some profit.
+An algo trading system with an ambious name that hopefully can make some profit.
 
 ## Getting Started
 
