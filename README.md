@@ -4,7 +4,7 @@ An algo trading system with an ambious name that hopefully can make some profit.
 
 ## Getting Started
 
-There's nothing to get started because this is not for community. But if you have the same interest feel free to join me to speed up the process.
+There's nothing to get started because this is not for public. But if you have the same interest feel free to join me to speed up the process.
 
 ### Prerequisites
 requests (for TD API)
